@@ -1,12 +1,16 @@
-# React + Vite
+#Project Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MyMusic is a sleek and modern music player app that allows users to listen to their favorite tracks while managing a personalized playlist. The app features a beautiful UI powered by React, Tailwind CSS, and React Router. It supports a smooth music-playing experience with controls for play, pause, skip, and navigation through a playlist. In addition, the app includes user authentication with login and signup functionality, providing a secure and customizable experience.
 
-Currently, two official plugins are available:
+## Tech stack used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React: JavaScript library for building user interfaces.
 
-## Expanding the ESLint configuration
+React Router: For navigation and routing between different pages.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tailwind CSS: Utility-first CSS framework for responsive, fast styling.
+
+use-sound: A hook for handling audio playback.
+
+## Screenshots
+![Screenshot 2025-05-29 075911](https://github.com/user-attachments/assets/c22fc173-0409-47d3-a22a-97d4ec335460)
